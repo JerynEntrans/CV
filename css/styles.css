@@ -14,13 +14,15 @@ hr {
 
 img {
   height: 150px;
-  width: 125px;
+  width: 150px;
+
+  border-radius: 100%;
 }
 
-h1{
+h1 {
   color: #51557E;
 }
 
-h3{
+h3 {
   color: #51557E;
 }
